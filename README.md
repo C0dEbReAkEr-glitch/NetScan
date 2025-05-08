@@ -23,7 +23,7 @@ NetScan is a powerful network reconnaissance and security assessment tool design
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/netscan.git
+https://github.com/C0dEbReAkEr-glitch/NetScan.git
 cd netscan
 
 # No additional dependencies required for installation!
